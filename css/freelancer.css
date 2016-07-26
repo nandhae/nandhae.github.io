@@ -97,7 +97,7 @@ header .intro-text .skills {
     padding-bottom: 100px;
   }
   header .intro-text .name {
-    font-size: 4.75em;
+    font-size: 3.5em;
   }
   header .intro-text .skills {
     font-size: 1.75em;
@@ -188,10 +188,6 @@ section h2 {
 section.success {
   background: #18BC9C;
   color: white;
-}
-#name{
-
-  font-size: 1.5em;
 }
 @media (max-width: 767px) {
   section {
