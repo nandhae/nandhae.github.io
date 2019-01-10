@@ -1,1 +1,3 @@
-<h1> SIMPLE STATIC PORTFOLIO </h1>
+# READ ME
+
+A simple portfolio
